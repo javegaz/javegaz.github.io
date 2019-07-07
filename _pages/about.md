@@ -5,7 +5,9 @@ title: "About"
 ---
 I am a Software and Tech Support Engineer at IMSS (Instituto Mexicano del Seguro Social). Before that, I worked as Software Engineer in a small company. I am interested in research, machine learning, natural language processing, and data analysis.
 
-* Skills and Programming Languages: Java • PHP • Python • HTML + CSS • JavaScript (jQuery) • Technical Support • Research • MySQL • Oracle
+* Programming Languages: Java • PHP • Python • HTML + CSS • JavaScript (jQuery) • MySQL • Oracle
+* Skills: Technical Support • Research
+
 
 Education
 ======
