@@ -1,8 +1,19 @@
 ---
 permalink: /about/
+title: "Jorge Amaury Vega Zavala"
 title: "About"
 ---
+I am a Software and Tech Support Engineer at IMSS (Instituto Mexicano del Seguro Social). Before that, I worked as Software Engineer in a small company. I am interested in research, machine learning, natural language processing, and data analysis.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+* Skills and Programming Languages: Java • PHP • Python • HTML + CSS • JavaScript (jQuery) • Technical Support • Research • MySQL • Oracle
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Education
+======
+I was a graduate student at CICESE Research Center at Ensenada, Baja California. I was studying a Master in Computer Science, but I didn’t finish it. My undergraduate degree is in Computer Systems Engineering, I studied at Tecnológico de Monterrey (a.k.a., ITESM).
+   *  M.Sc (2015 - 2016), Computer Science, CICESE Research Center (Not completed)
+   *  B.Sc (2012), Computer Systems Engineering, ITESM Campus Leon
+
+
+ Hobbies
+======
+* Coding, reading, football soccer, technology, etc.
