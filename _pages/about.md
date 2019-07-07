@@ -5,7 +5,7 @@ title: "About"
 ---
 I am a Software and Tech Support Engineer at IMSS (Instituto Mexicano del Seguro Social). 
 
-Before that, I worked by myself and before that as Software Engineer at a small company. 
+Before that, I worked as a Software Engineer by myself and before that as Software Engineer at a small company. 
 
 I am interested in research, machine learning, natural language processing, and data analysis.
 
