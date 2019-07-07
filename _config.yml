@@ -59,10 +59,10 @@ plugins:
 
 author:
   name   : ""
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/foto.JPG"
   bio    : "Software and Tech Support Engineer."
-  location : "León, GTO"
   email: "javegzav@outlook.com"
+  location : "León, GTO"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
