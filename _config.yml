@@ -62,8 +62,11 @@ author:
   avatar : "/assets/images/foto.JPG"
   bio    : "Software and Tech Support Engineer."
   location : "León, GTO"
-  email: "javegzav@outlook.com"
+  #email: "javegzav@outlook.com"
   links:
+   - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:javegzav[at]outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://"
