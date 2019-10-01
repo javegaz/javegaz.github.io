@@ -65,7 +65,7 @@ author:
   email: "javegzav[at]outlook.com"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+    -icon: "fas fa-fw fa-link"
       #url: "https://"
       #-label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
