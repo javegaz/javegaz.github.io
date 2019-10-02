@@ -8,7 +8,8 @@ tags:
   - job
 ---
 
-When I was a university student I took PSP (Personal Software Process) class, I really liked the idea of creating quality software. In this class I was taught in general terms how this methodology is used in the professional industry but It was until my first job when I really understand how to use it. 
+When I was a university student I took PSP (Personal Software Process) class, I really liked the idea of creating quality software. In this class I was taught in general terms how this methodology is used in the professional industry but It was until my first job when I really understand how to use it.
+
 It all began in 2013 when I was in my first job as a software engineer. We wanted to make better projects following professional practices such as estimating better software development time, tracking time of the tasks, and creating software with zero bugs. I was taught in the university that perhaps
 the best methodology was PSP and TSP. 
 In the consulting company where I worked I had to do a lot of software documentation following the documents from CMMI such as class diagrams, use case diagrams, gantt charts, project charters, etc. This led my team and I decide to learn how to use PSP and TSP. 
@@ -28,11 +29,12 @@ PSP uses forms or scripts which are helpful because you analyze the program that
 Once you create the project there are six phases: planning, design, code, compile,test and postmortem. 
 The scripts that uses the Process Dashboard for recollecting data are the following:
 
-    • The project plan summary
-    • The process script
-    • The planning script
-    • The development script
-    • The postmortem script
+
+- The project plan summary
+- The process script
+- The planning script
+- The development script
+- The postmortem script
     
    <figure class="half">
     <a href="/assets/images/post1-3.JPG"><img src="/assets/images/post1-3.JPG"></a>
