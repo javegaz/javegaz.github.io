@@ -23,7 +23,7 @@ Process Dashboard is a free software that helped me a lot when we were implement
 PSP and TSP collects statistics from the Process Dashboard software and give us an accurate estimate of the development time and size taking  as input size (lines of code), time, and quality(bugs). 
 
 <figure class>
-    <a href="/assets/images/post1-1.jpg"><img src="/assets/images/post1-2.jpg"></a>
+    <a href="/assets/images/post1-2.jpg"><img src="/assets/images/post1-2.jpg"></a>
 </figure>
 
 
