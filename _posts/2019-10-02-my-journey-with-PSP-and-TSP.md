@@ -23,7 +23,7 @@ Process Dashboard is a free software that helped me a lot when we were implement
 PSP and TSP collects statistics from the Process Dashboard software and give us an accurate estimate of the development time and size taking  as input size (lines of code), time, and quality(bugs). 
 
 <figure class>
-    <a href="/assets/images/post1-1.jpg"><img src="/assets/images/post1-2.jpg" width="600"></a>
+    <a href="/assets/images/post1-1.jpg"><img src="/assets/images/post1-2.jpg"></a>
 </figure>
 
 
@@ -43,6 +43,8 @@ The scripts that uses the Process Dashboard for recollecting data are the follow
   </figure>
 
 When I had to code the assignments I had to record everything such as time spent in each phase, the bugs found in each phase, the interruption time in each phase(rest time, telephonic calls, etc), etc. I have to be very disciplined in order to use it properly. 
+
 In PSP/ TSP each engineer have to plan his work according to his personal data, and if you do not have data at least at the beginning, you have to estimate your work. Once I was done with the assignment I had to do a report where I analyzed  the results in order to improve my performance in a process called Process Improvement Proposal (PIP), in this document I wrote about the problems I faced during all the process,  divided in problem description and proposal description.
 When I finished the assignment I had to sent the process data file, source code, test results, test report and and PIP form to the instructor and then he graded me, if everything was OK I was accepted but if not I had to resubmit. 
+
 In conclusion PSP/TSP taught me how to follow a methodology and it was my first approach to developing software following professional practices.
