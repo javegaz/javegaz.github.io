@@ -22,6 +22,10 @@ In these courses I had to do ten programming assignments all following the princ
 Process Dashboard is a free software that helped me a lot when we were implementing PSP/TSP in my job.
 PSP and TSP collects statistics from the Process Dashboard software and give us an accurate estimate of the development time and size taking  as input size (lines of code), time, and quality(bugs). 
 
+<figure class>
+    <a href="/assets/images/post1-1.jpg"><img src="/assets/images/post1-2.jpg" width="600"></a>
+</figure>
+
 
 PSP uses forms or scripts which are helpful because you analyze the program that you will code in detail. The purpose of these is generate statistics that will be used in future programs, and in the end will help to improve the performance of the developer.
 Once you create the project there are six phases: planning, design, code, compile,test and postmortem. 
