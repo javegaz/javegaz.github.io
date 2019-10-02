@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jorge Amaury Vega Zavala
-email: "javegzav@outlook.com"
+#email: "javegzav@outlook.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
+#twitter_username: username
 github_username: javegaz
 minimal_mistakes_skin: "dark"
 search: true
@@ -61,6 +61,8 @@ author:
   name   : 
   avatar : "/assets/images/foto.JPG"
   bio    : "Software and Tech Support Engineer."
+  location : "León, GTO"
+  email: "javegzav[at]outlook.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,15 +79,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/javegaz"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/"
 
 defaults:
   # _posts
