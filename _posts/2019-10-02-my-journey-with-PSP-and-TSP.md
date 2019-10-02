@@ -10,15 +10,13 @@ tags:
 
 When I was a university student I took PSP (Personal Software Process) class, I really liked the idea of creating quality software. In this class I was taught in general terms how this methodology is used in the professional industry but It was until my first job when I really understand how to use it.
 
-It all began in 2013 when I was in my first job as a software engineer. We wanted to make better projects following professional practices such as estimating better software development time, tracking time of the tasks, and creating software with zero bugs. I was taught in the university that perhaps
-the best methodology was PSP and TSP. 
-In the consulting company where I worked I had to do a lot of software documentation following the documents from CMMI such as class diagrams, use case diagrams, gantt charts, project charters, etc. This led my team and I decide to learn how to use PSP and TSP. 
-I took two courses from the SIE Center(Software Industry Excellence Center): PSP Fundamentals and Advanced. They were taught by an instructor with a PhD who specialized in CMMI, PSP and TSP.
+It all began in 2013 when I was in my first job as a software engineer. We wanted to make better projects following professional practices such as estimating better software development time, tracking time of the tasks, and creating software with zero bugs. 
 
-<p float="left">
-  <img src="/assets/images/post1-1.jpg" width="400" />
-  <img src="/assets/images/post1-2.jpg" width="400" /> 
-</p>
+I was taught in the university that perhaps the best methodology was PSP and TSP. 
+In the consulting company where I worked I had to do a lot of software documentation following the documents from CMMI such as class diagrams, use case diagrams, gantt charts, project charters, etc. This led my team and I decide to learn how to use PSP and TSP. I took two courses from the SIE Center(Software Industry Excellence Center): PSP Fundamentals and Advanced. They were taught by an instructor with a PhD who specialized in CMMI, PSP and TSP.
+<figure class>
+    <a href="/assets/images/post1-1.jpg"><img src="/assets/images/post1-1.jpg" width="600"></a>
+</figure>
 
 In these courses I had to do ten programming assignments all following the principles of PSP: planning, development and  postmortem. I also had to use a software called Process Dashboard. At the end I passed an online exam and received the PSP Certification, which lasted 3 years.
 Process Dashboard is a free software that helped me a lot when we were implementing PSP/TSP in my job.
@@ -36,7 +34,7 @@ The scripts that uses the Process Dashboard for recollecting data are the follow
 - The development script
 - The postmortem script
     
-   <figure class="half">
+   <figure>
     <a href="/assets/images/post1-3.JPG"><img src="/assets/images/post1-3.JPG"></a>
   </figure>
 
